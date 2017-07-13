@@ -1,4 +1,4 @@
-package com.degogoy.code-utils;
+package com.degodoy.codeutils;
 
 /**
  * Hello world! First Lines
