@@ -4,7 +4,7 @@ package com.degodoy.codeutils;
  * Hello world! First Lines
  *
  */
-public class App
+public class Main
 {
     public static void main( String[] args )
     {
