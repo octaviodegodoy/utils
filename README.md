@@ -4,3 +4,4 @@ Common tasks of a daily programmer.
 - Combinatorics
 - Enums
 
+Most used algorithms in several languages
