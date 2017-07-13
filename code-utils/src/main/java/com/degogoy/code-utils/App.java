@@ -1,7 +1,7 @@
 package com.degogoy.code-utils;
 
 /**
- * Hello world!
+ * Hello world! First Lines
  *
  */
 public class App 
